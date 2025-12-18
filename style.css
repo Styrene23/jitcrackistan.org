@@ -1,7 +1,11 @@
+.all {
+  margin-left: 20vw;
+}
+
 .mainheader {
   width: 100vw;
 }
 
 .banner {
-  width: 50%;
+  width: 20%;
 }
