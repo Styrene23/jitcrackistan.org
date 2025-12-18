@@ -8,6 +8,10 @@
 
 .mainheader {
   width: 100vw;
+  padding-left: 0px;
+  padding-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .banner {
