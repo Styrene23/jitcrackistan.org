@@ -31,3 +31,46 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.langselect {
+  height: 30vh;
+  width: 20vw;
+  background-color: #FFFFFF;
+}
+
+.langbanner {
+  width: 100%;
+}
+
+.langbtnwrapper {
+  position: relative;
+  top: 20%;
+  overflow: hidden;
+}
+.langbtn1 {
+  position: relative;
+  left: 15%;
+  width: 30%;
+  height: 20%;
+  float: left;
+}
+.langbtn2 {
+  position: relative;
+  left: 25%;
+  width: 30%;
+  height: 20%;
+  float: left;
+}
+.langbtntxt {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 80%;
+  color: black;
+}
+
+.xycentred {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
