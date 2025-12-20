@@ -67,6 +67,15 @@
   color: black;
 }
 
+.topbannerimg {
+  height: 30vh;
+  width: 100vw;
+  background-image: url("mountains.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .xycentred {
   position: absolute;
   left: 50%;
