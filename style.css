@@ -76,6 +76,44 @@
   background-size: cover;
 }
 
+.topbannerbox {
+  position: relative;
+  height: 80%;
+  width: 30%;
+  top: 10%;
+  left: 20%;
+  background-color: #333366BB;
+}
+
+.topbannerboxh1 {
+  position: relative;
+  top: 20%;
+  left: 4%;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 300%;
+  font-weight: lighter;
+}
+
+.topbannerboxdivider {
+  position: relative;
+  top: 17%;
+  bottom: 7%;
+  left: 4%;
+  height: 3%;
+  width: 20%;
+  background-color: #663366;
+}
+
+.topbannerboxp {
+  position: relative;
+  top: 17%;
+  left: 4%;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 125%;
+}
+
 .xycentred {
   position: absolute;
   left: 50%;
