@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.25"
-     inkscape:cx="1606"
+     inkscape:cx="1652"
      inkscape:cy="246"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -225,14 +225,14 @@
        y="90.449333"
        id="text5-8"><tspan
          sodipodi:role="line"
-         id="tspan5-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.365"
          x="664.2735"
-         y="90.449333">Gəvrnmint əv </tspan><tspan
+         y="90.449333"
+         id="tspan6-4">θúdpúpmō éx</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.365"
          x="664.2735"
-         y="135.06161"
-         id="tspan6-4">Jitkrakistan</tspan></text>
+         y="134.54659"
+         id="tspan1">jítkrákístán</tspan></text>
   </g>
 </svg>
