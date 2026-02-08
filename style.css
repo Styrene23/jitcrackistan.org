@@ -139,3 +139,12 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+.topdivider {
+  position: relative;
+  top: 17%;
+  bottom: 7%;
+  height: 0.75vh;
+  width: 5%;
+  background-color: #663366;
+}
