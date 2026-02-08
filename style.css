@@ -117,7 +117,6 @@
 .mostrequested {
   width: 100vw;
   height: 15vh;
-  overflow: hidden;
 }
 
 .commontext {
@@ -130,6 +129,7 @@
   left: 20vw;
   right: 20vw;
   top: 2vh;
+  overflow: hidden;
 }
 
 .xycentred {
@@ -147,4 +147,12 @@
   height: 0.75vh;
   width: 5%;
   background-color: #663366;
+}
+
+.overflowhide {
+  overflow: hidden;
+}
+
+.viewportwidth {
+  width: 80vw;
 }
