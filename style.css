@@ -156,3 +156,21 @@
 .viewportwidth {
   width: 80vw;
 }
+
+.displaybox {
+  display: inline-block;
+  background-color: #AAAAAA;
+  width: 20vw;
+}
+
+.displaybox > * {
+  position: relative;
+  margin: 2%;
+}
+
+.explanation {
+  margin-left: 5px;
+  vertical-align: top;
+  display: inline-block;
+  white-space: pre-wrap;
+}
