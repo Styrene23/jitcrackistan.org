@@ -174,3 +174,7 @@
   display: inline-block;
   white-space: pre-wrap;
 }
+
+.space {
+  width: 15px;
+}
