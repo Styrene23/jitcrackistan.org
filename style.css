@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .all {
   margin-left: 20vw;
 }
@@ -173,6 +177,8 @@
   vertical-align: top;
   display: inline-block;
   white-space: pre-wrap;
+  word-wrap: break-word;
+  width: 40vw;
 }
 
 .space {
